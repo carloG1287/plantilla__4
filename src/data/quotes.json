@@ -2,33 +2,33 @@
   "qoutes": [
     {
       "id": "Q2",
-      "text": "Has sido una fuente de fuerza y apoyo para mí. Me alegra que seas parte de mi vida",
+      "text": "Mensaje para tu pareja",
       "image": "/images/image-03.webp"
     },
     {
       "id": "Q3",
-      "text": "Me haces sonreír tan fácilmente. ¿Puedes estar allí, haciéndolo para siempre?",
+      "text": "Mensaje para tu pareja",
       "image": "/images/image-02.webp"
     },
     {
       "id": "Q4",
-      "text": "Estaba solo en la vida, pero cuando llegaste a mi vida, trajiste colores contigo y pintaste mi vida con colores hermosos",
+      "text": "Mensaje para tu pareja",
       "image": "/images/image-01.webp"
     },
     {
       "id": "Q5",
-      "text": "Tu ausencia es más fuerte para mí que la presencia de miles de otras personas",
+      "text": "Mensaje para tu pareja",
       "image": "/images/image-07.webp"
     },
     {
       "id": "Q6",
-      "text": "Me enamoré de ti no por cómo luces, solo por quien eres",
+      "text": "Mensaje para tu pareja",
       "image": "/images/image-06.webp"
     }
   ],
   "propose": {
     "id": "finished",
-    "text": "No estoy seguro de lo que la vida podría traerte. No estoy seguro de si los sueños se hacen realidad. No estoy seguro de lo que el amor puede hacer. Pero estoy seguro de una cosa. Te amo",
+    "text": "Mensaje para tu pareja",
     "subtext": "Eso es todo, esperaré tu respuesta",
     "image": "/images/image-04.webp"
   }
